@@ -49,3 +49,4 @@ MustacheTests/Carthage/Cartfile.resolved
 
 Packages
 Tests/LinuxMain.swift
+Mustache.xcodeproj
